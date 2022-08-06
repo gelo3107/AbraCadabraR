@@ -1,0 +1,1 @@
+start javaw --module-path "C:\Program Files\Java\javafx-sdk-18.0.2\lib" --add-modules ALL-MODULE-PATH -jar AbraCadabraR.jar
