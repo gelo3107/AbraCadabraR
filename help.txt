@@ -1,0 +1,39 @@
+
+* * * * * * * * * * * * * *  W A R N I N G  * * * * * * * * * * * * * *
+								      
+ Using this application following is understood and accepted:        
+								      
+   1. This app has very simple coding algorithm and might be decoded 
+      easily. Any claims are not accepted.                             
+								      
+   2. The application neither collect input information nor deliver  
+      it through web.						      
+								      
+   3. It is prohibited to use the app for the illegal purposes.     
+ 
+								      
+ * * * * * * * * * * * *  H O W   T O   U S E  * * * * * * * * * * * *
+
+ TO CODE MESSAGE
+
+   1. Text or copy and paste message in the message field. Message
+      should contains 5 symbols or more.
+
+   2. Text password in the password field. Password should contain 5
+      symbols including lower case and upper case letters, numbers and
+      other symbols. It is recommended to make sure that recipient of
+      coded message is able to input these symbols and letters.
+
+   3. Push "Code" button to code a message. Coded message could be
+      copied and sent through any e-mail or messenger app.
+
+ TO DECODE MESSAGE
+
+   1. Paste received coded message in the message field.
+
+   2. Paste password in the password field.
+
+   3. Push "Decode" button. If password is correct message will be
+      decoded. Else invalid password warning will be showed.
+
+ * * * * * * * * * * * * * * * * E N D * * * * * * * * * * * * * * *
