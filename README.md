@@ -1,4 +1,4 @@
-# HRQuiz
+# AbraCadabraR
 My first JavaFX app
 
 There are some hints I've learned to run JavaFX app outside of IDE:
@@ -14,3 +14,5 @@ There are some hints I've learned to run JavaFX app outside of IDE:
   3. Run app from command line as a console application with JavaFX modules: start java --module-path "PATH_TO_JAVAFX\lib" --add-modules ALL-MODULE-PATH -jar YOUR_APP.jar
   
   4. Some additional tips: it is possible to create text file with command above and make it as *.bat. Also use start javaw ... for closing console after app start up. 
+  
+  5. help.txt should be copied in the JAR directory
